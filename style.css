@@ -1,0 +1,9 @@
+body{
+    background-image: url('img/foto2.jpg');
+    background-size: 200px;
+    background-position: center;
+}
+.selamat{
+    text-align: center;
+    color: greenyellow;
+}
